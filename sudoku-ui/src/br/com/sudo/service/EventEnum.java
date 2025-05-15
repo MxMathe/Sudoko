@@ -1,4 +1,4 @@
-package br.com.dio.service;
+package br.com.sudo.service;
 
 public enum EventEnum {
 

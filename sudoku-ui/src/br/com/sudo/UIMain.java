@@ -1,9 +1,8 @@
-package br.com.dio;
+package br.com.sudo;
 
+import br.com.sudo.ui.custom.screen.MainScreen;
 import static java.util.stream.Collectors.toMap;
 import java.util.stream.Stream;
-
-import br.com.dio.ui.custom.screen.MainScreen;
 
 public class UIMain {
 

@@ -1,4 +1,4 @@
-package br.com.dio.ui.custom.panel;
+package br.com.sudo.ui.custom.panel;
 
 import java.awt.Dimension;
 import javax.swing.JPanel;

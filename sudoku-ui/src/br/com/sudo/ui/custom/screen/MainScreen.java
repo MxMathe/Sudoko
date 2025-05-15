@@ -1,16 +1,16 @@
-package br.com.dio.ui.custom.screen;
+package br.com.sudo.ui.custom.screen;
 
-import br.com.dio.model.Space;
-import br.com.dio.service.BoardService;
-import static br.com.dio.service.EventEnum.CLEAR_SPACE;
-import br.com.dio.service.NotifierService;
-import br.com.dio.ui.custom.button.CheckGameStatusButton;
-import br.com.dio.ui.custom.button.FinishGameButton;
-import br.com.dio.ui.custom.button.ResetButton;
-import br.com.dio.ui.custom.frame.MainFrame;
-import br.com.dio.ui.custom.input.NumberText;
-import br.com.dio.ui.custom.panel.MainPanel;
-import br.com.dio.ui.custom.panel.SudokuSector;
+import br.com.sudo.model.Space;
+import br.com.sudo.service.BoardService;
+import static br.com.sudo.service.EventEnum.CLEAR_SPACE;
+import br.com.sudo.service.NotifierService;
+import br.com.sudo.ui.custom.button.CheckGameStatusButton;
+import br.com.sudo.ui.custom.button.FinishGameButton;
+import br.com.sudo.ui.custom.button.ResetButton;
+import br.com.sudo.ui.custom.frame.MainFrame;
+import br.com.sudo.ui.custom.input.NumberText;
+import br.com.sudo.ui.custom.panel.MainPanel;
+import br.com.sudo.ui.custom.panel.SudokuSector;
 import java.awt.Dimension;
 import java.util.ArrayList;
 import java.util.List;

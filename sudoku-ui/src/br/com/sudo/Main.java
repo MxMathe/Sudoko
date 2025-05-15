@@ -1,18 +1,18 @@
-package br.com.dio;
+package br.com.sudo;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
-import static br.com.dio.util.BoardTemplate.BOARD_TEMPLATE;
+import static br.com.sudo.util.BoardTemplate.BOARD_TEMPLATE;
 import static java.util.Objects.isNull;
 import static java.util.Objects.nonNull;
 import java.util.Scanner;
 import static java.util.stream.Collectors.toMap;
 import java.util.stream.Stream;
 
-import br.com.dio.model.Board;
-import br.com.dio.model.Space;
+import br.com.sudo.model.Board;
+import br.com.sudo.model.Space;
 
 
 

@@ -1,6 +1,6 @@
-package br.com.dio.ui.custom.panel;
+package br.com.sudo.ui.custom.panel;
 
-import br.com.dio.ui.custom.input.NumberText;
+import br.com.sudo.ui.custom.input.NumberText;
 
 import javax.swing.JPanel;
 import javax.swing.border.LineBorder;

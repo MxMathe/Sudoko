@@ -1,9 +1,9 @@
-package br.com.dio.model;
+package br.com.sudo.model;
 
 
-import static br.com.dio.model.GameStatusEnum.COMPLETE;
-import static br.com.dio.model.GameStatusEnum.INCOMPLETE;
-import static br.com.dio.model.GameStatusEnum.NON_STARTED;
+import static br.com.sudo.model.GameStatusEnum.COMPLETE;
+import static br.com.sudo.model.GameStatusEnum.INCOMPLETE;
+import static br.com.sudo.model.GameStatusEnum.NON_STARTED;
 import java.util.Collection;
 import java.util.List;
 import static java.util.Objects.isNull;

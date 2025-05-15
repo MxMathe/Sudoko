@@ -1,4 +1,4 @@
-package br.com.dio.ui.custom.frame;
+package br.com.sudo.ui.custom.frame;
 
 import java.awt.Dimension;
 import javax.swing.JFrame;
